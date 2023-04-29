@@ -1,5 +1,7 @@
 # Learning Resources
 
+I do not own any of these resources, they are just ones that I have found useful whilst learning to program myself
+
 
 ## Beginner resources
 - [W3Schools](https://www.w3schools.com/)
