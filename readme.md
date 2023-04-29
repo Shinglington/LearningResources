@@ -13,7 +13,8 @@ I do not own any of these resources, they are just ones that I have found useful
 ## MVVM
 - [WPF MVVM step by step](https://www.codeproject.com/articles/819294/wpf-mvvm-step-by-step-basics-to-advance-level)
 
-
+## Specific framework guides
+- [WPF] (https://wpf-tutorial.com/about-wpf/what-is-wpf/)
 
 ## Coding Problems
 - [Codewars](https://www.codewars.com/)
