@@ -9,6 +9,6 @@
 
 
 ## Coding Problems
--[Codewars](https://www.codewars.com/)
--[LeetCode](https://leetcode.com/)
--[Project Euler](https://projecteuler.net/) (Maths oriented)
+- [Codewars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [Project Euler](https://projecteuler.net/) (Maths oriented)
